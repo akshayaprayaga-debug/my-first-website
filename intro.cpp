@@ -12,6 +12,7 @@ int main() {
     cout << "Currently studying: " << field << endl;
     cout << "Interested in: " << interest << endl;
     cout << "Learning to code and building my first portfolio!" << endl;
+    cout << "This website is built and developed with github !" << endl;
 
     return 0;
 }
